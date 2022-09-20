@@ -1,6 +1,5 @@
-My name is Niccolò Massoni
-I am a master finance student at Luiss Guido Carli university
-I am interested in coding and machine learning techniques for finance
+My name is Niccolò Massoni, I am a master finance student at Luiss Guido Carli university.
+My interest area is coding and machine learning techniques for finance.
 
 
 <!---
